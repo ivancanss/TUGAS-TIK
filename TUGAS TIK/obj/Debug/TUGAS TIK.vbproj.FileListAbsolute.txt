@@ -1,0 +1,15 @@
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\bin\Debug\TUGAS TIK.exe.config
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\bin\Debug\TUGAS TIK.exe
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\bin\Debug\TUGAS TIK.pdb
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\bin\Debug\TUGAS TIK.xml
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\obj\Debug\TUGAS TIK.vbproj.AssemblyReference.cache
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\obj\Debug\TUGAS TIK.vbproj.SuggestedBindingRedirects.cache
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\obj\Debug\TUGAS_TIK.Form1.resources
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\obj\Debug\TUGAS_TIK.Form2.resources
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\obj\Debug\TUGAS_TIK.Resources.resources
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\obj\Debug\TUGAS TIK.vbproj.GenerateResource.cache
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\obj\Debug\TUGAS TIK.vbproj.CoreCompileInputs.cache
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\obj\Debug\TUGAS TIK.exe
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\obj\Debug\TUGAS TIK.xml
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\obj\Debug\TUGAS TIK.pdb
+C:\Users\U55\source\repos\TUGAS TIK\TUGAS TIK\obj\Debug\TUGAS_TIK.Form3.resources
